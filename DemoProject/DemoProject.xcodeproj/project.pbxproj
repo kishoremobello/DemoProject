@@ -18,6 +18,8 @@
 		03568ABC1D896BBC0072687F /* DemoProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 03568ABB1D896BBC0072687F /* DemoProjectUITests.m */; };
 		EE5B9A981D896D25008E3559 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE5B9A971D896D25008E3559 /* Storyboard.storyboard */; };
 		EE5B9A9B1D896D58008E3559 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE5B9A9A1D896D58008E3559 /* SecondViewController.m */; };
+		EE5B9A9D1D8970CE008E3559 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = EE5B9A9C1D8970CE008E3559 /* logo.png */; };
+		EE5B9AA01D897163008E3559 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE5B9A9F1D897163008E3559 /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +60,9 @@
 		EE5B9A971D896D25008E3559 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		EE5B9A991D896D58008E3559 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		EE5B9A9A1D896D58008E3559 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		EE5B9A9C1D8970CE008E3559 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		EE5B9A9E1D897163008E3559 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		EE5B9A9F1D897163008E3559 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +120,9 @@
 				03568A9C1D896BBC0072687F /* Main.storyboard */,
 				EE5B9A991D896D58008E3559 /* SecondViewController.h */,
 				EE5B9A9A1D896D58008E3559 /* SecondViewController.m */,
+				EE5B9A9C1D8970CE008E3559 /* logo.png */,
+				EE5B9A9E1D897163008E3559 /* ThirdViewController.h */,
+				EE5B9A9F1D897163008E3559 /* ThirdViewController.m */,
 				EE5B9A971D896D25008E3559 /* Storyboard.storyboard */,
 				03568AA21D896BBC0072687F /* Assets.xcassets */,
 				03568AA41D896BBC0072687F /* LaunchScreen.storyboard */,
@@ -255,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03568AA61D896BBC0072687F /* LaunchScreen.storyboard in Resources */,
+				EE5B9A9D1D8970CE008E3559 /* logo.png in Resources */,
 				EE5B9A981D896D25008E3559 /* Storyboard.storyboard in Resources */,
 				03568AA31D896BBC0072687F /* Assets.xcassets in Resources */,
 				03568A9E1D896BBC0072687F /* Main.storyboard in Resources */,
@@ -284,6 +293,7 @@
 			files = (
 				EE5B9A9B1D896D58008E3559 /* SecondViewController.m in Sources */,
 				03568AA11D896BBC0072687F /* DemoProject.xcdatamodeld in Sources */,
+				EE5B9AA01D897163008E3559 /* ThirdViewController.m in Sources */,
 				03568A9B1D896BBC0072687F /* ViewController.m in Sources */,
 				03568A981D896BBC0072687F /* AppDelegate.m in Sources */,
 				03568A951D896BBC0072687F /* main.m in Sources */,
